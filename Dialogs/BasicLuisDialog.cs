@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
-
+//test
 namespace Microsoft.Bot.Sample.LuisBot
 {
     // For more information about this template visit http://aka.ms/azurebots-csharp-luis
